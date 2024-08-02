@@ -1,0 +1,391 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1600px) {
+	.nav-button {
+		display: none;
+	}
+
+	.em-blog-icon p span {
+		margin-right: 15px;
+	}
+
+	.em-blog-title h2 {
+		font-size: 22px;
+		line-height: 29px;
+	}
+
+	.uc-contact {
+		margin-left: 0;
+		margin-top: 6px;
+	}
+
+	.em-blog-title.news-blog h2 {
+		font-size: 20px;
+	}
+	.join-single-box {
+		flex-direction: inherit;
+	}
+	.skill-single-button .video-bg {
+		left: 42%;
+	}
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 991px) and (max-width: 1199px) {
+	.nav-button {
+		display: none;
+	}
+
+	.em-blog-icon p span {
+		margin-right: 15px;
+	}
+
+	.em-blog-title h2 {
+		font-size: 22px;
+		line-height: 29px;
+	}
+
+	.uc-contact {
+		margin-left: 0;
+		margin-top: 6px;
+	}
+
+	.em-blog-title.news-blog h2 {
+		font-size: 20px;
+	}
+
+	.join-with-us-area .pr-40 {
+		padding-right: 15px;
+	}
+
+	.join-with-us-area .pl-40 {
+		padding-left: 15px;
+	}
+	.em-blog-content:before {
+		top: 230px;
+	}
+	.why-choose-us-area .text-rigt {
+		margin-left: 74px;
+	}
+	.why-choose-us-area {
+		padding: 100px 0 100px 0;
+	}
+	.join-single-box img {
+		width: 45%;
+	}
+	.news-blog-math h2 {
+		padding: 11px 15px;
+	}
+	.em-blog-content.news-blog {
+		padding: 22px 15px 30px;
+	}
+	.em-blog-title.news-blog h2 {
+		font-size: 18px;
+	}
+	span.post {
+		margin-left: 16px;
+	}
+	.join-single-box {
+		flex-direction: inherit;
+	}
+	.em-content {
+		margin-top: -14px;
+	}
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+	.about-area .slider-button {
+		margin-bottom: 80px;
+	}
+	.mylife-slider-image {
+		margin-left: 0;
+	}
+	.mylife-slider-title {
+		right: 100px;
+	}
+	.em-blog-content:before {
+		top: 175px;
+	}
+	.em-blog-title h2 {
+		font-size: 20px;
+	}
+	.Attractive-section .em-blog-icon p span {
+		margin-right: 12px;
+	}
+	.why-choose-us-area .text-rigt {
+		margin-left: 0px;
+		margin-top: 200px;
+	}
+	.why-choose-us-area {
+		padding: 100px 0 100px 0;
+	}
+	.Attractive-section {
+		padding: 95px 0 0px;
+	}
+	.join-with-us-area .mylife-section-text p {
+		width: 70%;
+	}
+	.join-with-us-area .pl-40 {
+		padding-left: 13.4px;
+	}
+	.join-with-us-area .pr-40 {
+		padding-right: 13.4px;
+	}
+	.mylife-section-title.news .mylife-section-text p {
+		width: 70%;
+	}
+	.mylife-news-blog-area .post {
+		margin-left: 30px;
+	}
+	.em-blog-title.news-blog h2 {
+		font-size: 18px;
+	}
+	.testimonial-area .mylife-section-text p {
+		width: 70%;
+	}
+	.company-info {
+		margin-bottom: 30px;
+	}
+	.em-blog-icon p i {	
+		margin-right: 4px	
+	}
+	.join-single-box {
+		flex-direction: inherit;
+	}
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+	.about-area .slider-button {
+		margin-bottom: 40px;
+	}
+	.about-area .mylife-slider-image {
+		margin-left: 0;
+	}
+	.mylife-section-text p {
+		width: 80%;
+	}
+	.Attractive-section .mylife-section-text p {
+		width: 80%;
+	}
+	.why-choose-us-area .text-rigt {
+		margin-left: 0;
+		margin-top: 200px;
+	}
+	.why-choose-us-area {
+		padding: 100px 0 100px 0;
+	}
+	.meet-our-expert-area .mylife-section-text p {
+		width: 80%;
+	}
+	.join-with-us-area .mylife-section-text p {
+		width: 75%;
+	}
+	.join-with-us-area .pl-40 {
+		padding-left: 13.4px;
+	}
+	.join-with-us-area .pr-40 {
+		padding-right: 13.4px;
+	}
+	.join-with-us-area .uc-contact {
+		margin-left: 5px;
+		margin-top: 6px;
+	}
+	.mylife-section-title.news .mylife-section-text p {
+		width: 75%;
+	}
+	.testimonial-area .mylife-section-text p {
+		width: 75%;
+	}
+	.testimonial-text {
+		margin-bottom: -162px;
+		margin-left: 35px;
+	}
+	.testimonial-text h6 {
+		font-size: 14px;
+	}
+	.testimonial-text h5 {
+		font-size: 13px;
+	}
+	.single-blog-thumb img {
+		width: 100%;
+	}
+	.single-team-content {
+		bottom: 30px;
+	}
+	.join-single-box {
+		flex-direction: inherit;
+	}
+	.testimonial-icon {
+		display: none;
+	}
+	.testimonial-text {
+		margin-bottom: -10px;
+	}
+	h4.widge-title {
+		margin-top: 30px;
+	}
+
+}
+
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+	.slider-content h1 {
+		font-size: 44px;
+	}
+	.progress-box {
+		flex-direction: column;
+    	align-items: start;
+	}
+	.simple-progress, .extra-progress {
+		margin-bottom: 30px;
+	}
+	.slider-button {
+		margin-bottom: 50px;
+	}
+	.mylife-slider-image {
+		margin-left: 0;
+	}
+	.mylife-section-text p,
+	.Attractive-section .mylife-section-text p {
+		width: 90%;
+	}
+	.math-text h2 {
+		margin-right: 30px;
+	}
+	.mylife-section-title.text-left h3 {
+		margin-top: 150px;
+	}
+	.text-rigt {
+		margin-left: 0;
+	}
+	.people-image {
+		bottom: -131px;
+		right: 59px;
+	}
+	.why-choose-us-area {
+		padding: 100px 0 70px 0;
+	}
+	.meet-our-expert-area .mylife-section-text p {
+		width: 90%;
+	}
+	.join-with-us-area .mylife-section-text p {
+		width: 100%;
+	}
+	.pr-40 {
+		padding-right: 15px;
+	}
+	.pl-40 {
+		padding-left: 15px;
+	}
+	.mylife-section-title.news .mylife-section-text p,
+	.testimonial-area .mylife-section-text p {
+		width: 80%;
+	}
+	.subscribe-title h2 {
+		margin-bottom: 20px;
+	}
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+	.header-top-menu{
+		display: none;
+	}
+	.row.reature-bg {
+		margin-top: 0;
+	}
+	.slider-content h1 {
+		font-size: 29px;
+	}
+	.progress-box {
+		flex-direction: column;
+		align-items: start;	
+	}
+	.simple-progress, .extra-progress {
+		margin-bottom: 30px;
+	}
+	.mylife-icon {
+		margin-top: 0px;
+		margin-bottom: 30px;
+	}
+	.mylife-slider-image {
+		margin-left: 0;
+		position: relative;
+	}
+
+	.mylife-section-text p,
+	.Attractive-section .mylife-section-text p {
+	 width: 100%;
+	}
+	.people-image {
+		right: 67%;
+		width: 201px;
+	}
+	.why-choose-us-thumb:hover .blog-thum-icon {
+		top: 229px;
+	}
+	.mylife-section-title.text-left h3 {
+		margin-top: 125px;
+	}
+	.text-rigt {
+		margin-left: 0;
+	}
+	.slider-button {
+		margin-top: 30px;
+	}
+	.why-choose-us-area {
+		padding: 100px 0 70px 0;
+	}
+	.meet-our-expert-area .mylife-section-text p {
+		width: 90%;
+	}
+	.team-title {
+		margin-bottom: 0px;
+	}
+	.join-with-us-area .mylife-section-text p {
+		width: 100%;
+	}
+	.pl-40 {
+		padding-left: 15px;
+	}
+	.pr-40 {
+		padding-right: 15px;
+	}
+	.mylife-section-title.news .mylife-section-text p {
+		width: 100%;
+	}
+	.news-blog-math h2 {
+		font-size: 15px;
+		padding: 14px 30px;
+	}
+	.em-blog-content.news-blog {
+		padding: 22px 20px 30px;
+	}
+	.blog-middle-button .all-button a {
+		font-size: 14px;
+	}
+	.testimonial-area .mylife-section-text p {
+		width: 100%;
+	}
+	.testimonial-icon {
+		position: absolute;
+		top: 32px;
+		right: 13px;
+	}
+	.subscribe_form button {
+		padding: 11px 16px;
+	}
+	.subscribe-area {
+		padding: 27px 15px 27px;	
+	}
+	h4.widge-title {
+		margin-top: 40px;
+	}
+	.footer-bottom-content {
+		text-align: left;
+	}
+}

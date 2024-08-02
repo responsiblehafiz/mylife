@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/flaticon.eot?2556lj');
+  src:  url('../fonts/flaticon.eot?2556lj#iefix') format('embedded-opentype'),
+    url('../fonts/flaticon.ttf?2556lj') format('truetype'),
+    url('../fonts/flaticon.woff?2556lj') format('woff'),
+    url('../fonts/flaticon.svg?2556lj#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-coffee-pot:before {
+  content: "\e905";
+}
+.icon-coffee-mechine:before {
+  content: "\e906";
+}
+.icon-coffee-beans:before {
+  content: "\e900";
+}
+.icon-coffee-cup:before {
+  content: "\e901";
+}
+.icon-coffee-cup2:before {
+  content: "\e902";
+}
+.icon-coffee-maker:before {
+  content: "\e903";
+}
+.icon-tea-cup:before {
+  content: "\e904";
+}
